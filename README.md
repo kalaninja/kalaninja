@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hey, I’m @kalaninja
+- 🤯 blockchain
+- 💸 13SBpwepFS9RsiZ5toDuFDcoC6J7TMGwubu8hdipJXE427T9
+- 📫 kalansoft@gmail.com 
 
 <!--
 **kalaninja/kalaninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
