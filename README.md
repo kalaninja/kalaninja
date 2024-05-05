@@ -3,10 +3,9 @@
 - 💸 13SBpwepFS9RsiZ5toDuFDcoC6J7TMGwubu8hdipJXE427T9
 - 📫 kalansoft@gmail.com
 
-![kalan's gitHub stats](https://github-readme-stats.vercel.app/api?username=kalaninja&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
-
 ![skills](https://skillicons.dev/icons?i=rust,cs,go,scala,java)
 
+![kalan's gitHub stats](https://github-readme-stats.vercel.app/api?username=kalaninja&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
 
 
 <!--
