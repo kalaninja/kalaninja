@@ -5,8 +5,12 @@
 
 ![skills](https://skillicons.dev/icons?i=rust,cs,go,scala,java)
 
-![kalan's gitHub stats](https://github-readme-stats.vercel.app/api?username=kalaninja&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+![](https://raw.githubusercontent.com/kalaninja/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/kalaninja/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kalaninja/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/kalaninja/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+<!--
+![kalan's gitHub stats](https://github-readme-stats.vercel.app/api?username=kalaninja&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+-->
 
 <!--
 **kalaninja/kalaninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
